@@ -4,39 +4,38 @@
 
 What is 2 + 2?
 
-5
+4
 
 ## Question 2
 
 What is the opposite of Black?
 
-Purple
+White
 
 ## Question 3
 
-What is the  2 * 3 * 6 * 1 * 10 * 34?
+What is the 2 _ 3 _ 6 _ 1 _ 10 \* 34?
 
-1322
+12240
 
-## Question 4 
+## Question 4
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hypertarget Mark-up Language
 
 ## Question 5
 
 What is CSS useful for?
 
-Making a website go faster
+Design and style the website
 
 ## Question 6
 
 Using CSS, how would I select every `<h1>` tag on the page?
 
 ```css
-#h1 {
-
+h1 {
 }
 ```
 
@@ -44,37 +43,37 @@ Using CSS, how would I select every `<h1>` tag on the page?
 
 What is JavaScript?
 
-A programming language used on the internet
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages
 
 ## Question 8
 
 What three problem does Git & Github solve?
 
-When people want to show off code to each other they can put it on Github
+Start With the Default Setting. ...
+Use Search To Avoid Submitting Duplicate Issues. ...
+Establish an Issue Reporting Structure. ...
 
 ## Question 9
 
 What happens when you `fork` a repository?
 
-You delete it
+make a copy of it to your own profile and can edit it or work on it as you want
 
-## Question 10 
+## Question 10
 
-What happens when you clone a repostory?
-
-It send it to a friend
+pulls down a full copy of all the repository data that GitHub.com has at that point in time, including all versions of every file and folder for the project.
 
 ## Question 11
 
 What is a Pull Request?
 
-When you send a file over the internet
+request for replacing the new edited version of a project
 
 ## Question 12
 
 What is the Git History log?
 
-It lets you see into the future
+let you to see in past of a project about what changed has made to the project by who
 
 ## Question 13
 
@@ -92,13 +91,13 @@ A place for us to store and share our code.
 
 What does it mean to "Commit your changes"?
 
-Send you code to Github
+Send you code to your working copy
 
 ## Question 16
 
 What program do we use to write code at CodeYourFuture?
 
-Microsoft Word
+VS code
 
 ## Question 17
 
@@ -110,4 +109,4 @@ To record what changes you made to the code
 
 Where can I look to find help with Git?
 
-The Git Cheatsheet!
+The Git help!

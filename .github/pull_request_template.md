@@ -12,11 +12,11 @@ London Class 7 - Chris Owen - HTMl/CSS - Week 1
 
 # Your Details
 
-- Your Name:
-- Your City:
-- Your Slack Name:
+- Your Name:    Ismail Masoumabadi
+- Your City:    Manchester
+- Your Slack Name: Ismail.M
 
 # Homework Details
 
-- Module:
-- Week:
+- Module: 1
+- Week: 4
